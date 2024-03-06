@@ -10,3 +10,10 @@
 </p>
 
 "Kala Kunj" is an innovative Augmented Reality (AR) project aimed at showcasing the rich tapestry of Indian art forms, state-wise. Users will enter a virtual space through AR technology after scanning a personalized card, creating a unique and interactive art exploration experience.
+
+
+
+## Contributors :
+
+- [Lakshay Bhushan](https://github.com/lakshaybhushan)
+- [Himani](https://github.com/himaniiii)
