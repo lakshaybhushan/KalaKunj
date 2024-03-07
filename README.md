@@ -4,6 +4,7 @@
 
 <img src ="https://img.shields.io/badge/c%23-4D94FF.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img src ="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+<img src ="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white">
 <img src ="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white">
 <img src ="https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=white">
 
