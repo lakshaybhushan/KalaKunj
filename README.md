@@ -12,7 +12,7 @@
 
 - Kala Kunj is an innovative Augmented Reality (AR) project that showcases the rich tapestry of Indian art forms, state-wise. 
 - Users will enter a virtual space through AR technology after scanning a personalized card, creating a unique and interactive art exploration experience.
-- The project involves creating an AR-based Cultural art Gallery using Blender for 3D modelling and Unity for development. It includes interactive features scripted in C#, providing cultural insights and multilingual support. The system uses Vuforia SDK facilitating a personalized gallery journey for each user. All these features aim to enhance user engagement and provide a rich cultural experience.
+- The project involves creating an AR-based Cultural art Gallery using Blender for 3D modelling and Unity for development. It includes interactive features scripted in C#, providing cultural insights and multilingual support. All these features aim to enhance user engagement and provide a rich cultural experience.
 
 ## Creators :
 
