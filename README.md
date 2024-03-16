@@ -24,4 +24,4 @@
 
 - [Demo Video](https://drive.google.com/file/d/1hVqPWGMN9Hisk6L6f7M4h8M1c5YtRNIf/view?usp=sharing)
 
-- [Google Drive Link](https://drive.google.com/file/d/1CpcGrVwqXB62Xb4Z0Ht2h0W9l7EakjRF/view?usp=sharing)
+- [Project Source Code](https://drive.google.com/file/d/1CpcGrVwqXB62Xb4Z0Ht2h0W9l7EakjRF/view?usp=sharing)
